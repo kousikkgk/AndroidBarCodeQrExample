@@ -1,0 +1,2 @@
+C:\Users\Software Developer\Downloads\AndroidBarCodeQrExample1\app\build\intermediates\classes\debug
+C:\Users\Software Developer\Downloads\AndroidBarCodeQrExample1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-08ceb34188b0faead602778a897c826a79bee3ee.jar
